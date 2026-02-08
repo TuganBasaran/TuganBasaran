@@ -1,86 +1,82 @@
-# Hi, I'm Tugan 👋
+# Tugan Basaran
 
-Computer Science student and Software Engineer focused on building AI-driven systems, backend services, and web-based applications. I specialize in developing scalable backend architectures using .NET and Spring Framework, and intelligent systems using Python and machine learning.
+Backend Engineer | AI Engineer | .NET | Spring Framework | Python | Machine Learning | Web Development
 
-I am passionate about designing full-stack and backend systems that integrate AI, web technologies, and robust software engineering principles.
+![Visitor Count](https://komarev.com/ghpvc/?username=TuganBasaran&color=blue)
 
 ---
 
-## 🔧 Technical Skills
+## About Me
 
-### Artificial Intelligence & Machine Learning
-- Python, Pandas, NumPy, Scikit-learn
-- PyTorch
-- Data preprocessing and feature engineering
-- Model training, evaluation, and prediction pipelines
-- Time series forecasting and predictive modeling
+I am a Computer Science student and Software Engineer focused on building scalable backend systems, AI-driven applications, and web-based software solutions.
+
+My expertise includes backend development using .NET and Spring Framework, machine learning using Python, and designing robust web and software architectures. I enjoy building intelligent systems that integrate AI, backend services, and real-world data.
+
+I am currently open to remote internships, freelance, and part-time software engineering opportunities.
+
+---
+
+## Tech Stack
 
 ### Backend Development
-- .NET (C#)
-- Spring Framework (Java)
-- REST API development
-- Backend architecture and service design
-- Database integration and management
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
+
+### Artificial Intelligence & Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 
 ### Web Development
-- RESTful web services
-- Web application architecture
-- HTML, CSS, JavaScript
-- Backend-driven web applications (.NET, Spring)
-- MVC architecture
-- Client-server architecture
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 
-### Software Engineering
-- Object-Oriented Programming (OOP)
-- Data Structures and Algorithms
-- Software design patterns
-- Clean code and modular architecture
-- System design fundamentals
-
-### Tools & Technologies
-- Git, GitHub
-- SQL
-- Streamlit
-- Linux
-- IntelliJ IDEA, Visual Studio, PyCharm
+### Database & Tools
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
 
 ---
 
-## 📌 Featured Projects
+## GitHub Stats
 
-### Stroke Prediction using Machine Learning
-Developed classification models using medical data, including preprocessing, imbalance handling, and performance evaluation.
+![Tugan's GitHub stats](https://github-readme-stats.vercel.app/api?username=TuganBasaran&show_icons=true&theme=github_dark)
 
-### Credit Card Fraud Detection
-Built machine learning models to detect fraudulent financial transactions using real-world datasets.
-
-### American Sign Language Interpreter
-Developed a machine learning system capable of interpreting sign language inputs.
-
-### Stock Analysis Application
-Designed a web-based application for financial data analysis and visualization.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TuganBasaran&layout=compact&theme=github_dark)
 
 ---
 
-## 🎯 Areas of Interest
+## Featured Projects
 
-- Artificial Intelligence Engineering
-- Backend Development
-- Web Application Development
-- Scalable Software Systems
-- Intelligent Automation Systems
+Stroke Prediction using Machine Learning  
+Developed predictive models using real-world medical datasets including preprocessing, feature engineering, and classification.
+
+Credit Card Fraud Detection  
+Built machine learning models to detect fraudulent financial transactions.
+
+American Sign Language Interpreter  
+Developed an intelligent system capable of interpreting sign language.
+
+Stock Analysis Application  
+Built a software application for financial data analysis and visualization.
 
 ---
 
-## 📫 Contact
+## Areas of Interest
 
-- LinkedIn: https://www.linkedin.com/in/YOUR-LINK
-- Email: your.email@example.com
+Artificial Intelligence Engineering  
+Backend Development  
+Web Application Development  
+Software Architecture  
+Machine Learning Systems  
 
 ---
 
-## ⚡ Currently
+## Contact
 
-- Developing AI-powered backend and web systems
-- Building scalable applications using .NET and Spring Framework
-- Open to remote internships, freelance, and part-time opportunities
+LinkedIn: https://www.linkedin.com/in/tugan-ba%C5%9Faran-44404825b/  
+Email: tuganbasaran03@gmail.com
