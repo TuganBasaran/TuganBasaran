@@ -40,16 +40,6 @@ I am currently open to remote internships, freelance, and part-time software eng
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
 
----
-
-## GitHub Stats
-
-![Tugan's GitHub stats](https://github-readme-stats.vercel.app/api?username=TuganBasaran&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TuganBasaran&layout=compact&theme=github_dark)
-
----
-
 ## Featured Projects
 
 Stroke Prediction using Machine Learning  
